@@ -1,3 +1,7 @@
+/*
+  Learn More:
+  http://facebook.github.io/react-native/releases/0.44/docs/modal.html#modal
+*/
 import Expo from 'expo';
 import React from 'react';
 
@@ -38,7 +42,7 @@ class App extends React.Component {
   )
   renderContents = () => (
     <View style={{flex: 1, justifyContent: 'center'}}>
-      <Text style={{color: 'black', fontSize: 36, marginBottom: 48}}>{this.state.currentOrientation}</Text>
+      <Text style={{textAlign: 'center', color: 'black', fontSize: 36, marginBottom: 48}}>{this.state.currentOrientation}</Text>
       {this.renderPicker()}
     </View>
   )
