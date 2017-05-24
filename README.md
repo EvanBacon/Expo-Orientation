@@ -4,6 +4,10 @@ Simple Hack to control view orientation in Expo/React Native. No Native Modules 
 
 (It's just a wrapper around [Modal](http://facebook.github.io/react-native/releases/0.44/docs/modal.html#modal) 😉)
 
+Expo: https://exp.host/@bacon/orientation
+
+![orientation gif should be here. harambe rip](/demo.gif?raw=true "Preview Gif 😀 ...I love you")
+
 
 ----
 
